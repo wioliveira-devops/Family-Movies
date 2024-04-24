@@ -1,1 +1,0 @@
-const key = 'c30c57de'
