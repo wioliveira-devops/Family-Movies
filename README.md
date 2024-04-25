@@ -1,3 +1,3 @@
 JavaScript application that consult list of movies from IMDB API and save them as favorites 
 
-Library Tools: HTML / CSS / JS, Notie, Babel, Gulp, Webpack, bootstrap
+Tools: HTML / CSS / JS, Notie, Babel, Gulp, Webpack, bootstrap
